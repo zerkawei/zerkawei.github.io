@@ -15,7 +15,6 @@
     display: flex;
     flex-direction: row;
     margin-top: 20vh;
-    padding: 0 100px;
     margin-bottom: 60px;
 }
 
@@ -156,10 +155,4 @@
 
     animation: 2.2s ease-in-out 3.2s 1 iconsEntry;
     animation-fill-mode: forwards;
-}
-
-a.fa {
-    font-size: 40px;
-    color: #3b3b3b;
-    text-decoration: none;
 }

@@ -3,10 +3,10 @@
 html {
     font-family: 'Open Sans', sans-serif;
     color: #fff;
+    background-color: #1b1b1b;
 }
 
 body {
-    background-color: #1b1b1b;
     margin: 0;
 }
 
@@ -18,3 +18,8 @@ body {
     height: 100vh;
 }
 
+a.fa {
+    font-size: 40px;
+    color: #3b3b3b;
+    text-decoration: none;
+}
